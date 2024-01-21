@@ -20,7 +20,7 @@ func main() {
 				Required: true,
 			},
 			&cli.StringFlag{
-				Name:     "Port",
+				Name:     "port",
 				Aliases:  []string{"p"},
 				Usage:    "Port number to check",
 				Required: false,
