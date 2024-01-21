@@ -21,7 +21,7 @@ go run . -d google.com [by default port 80 will be checked]
 go run . -d google.com -p 443
 ```
 
-<br>
+<br> <b>TIP😉:- GitHub latest beta feature below!</b>
 
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
